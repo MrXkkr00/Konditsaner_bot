@@ -1,4 +1,4 @@
 
-BOT_TOKEN = "6351403575:AAHS-NHPt1owwlfGCPjb_OYXOHumwzcyFpI"
-ADMINS = ["984568970"]
-IP = "localhost"
+BOT_TOKEN = ""
+ADMINS = [""]
+IP = ""
